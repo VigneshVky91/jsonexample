@@ -1,0 +1,17 @@
+[
+		{
+			"id":"123",
+			"name":"Panha",
+			"city":"Phnom Penh"
+		},
+		{
+			"id":"125",
+			"name":"Bot",
+			"city":"Hongkong"
+		},
+		{
+			"id":"127",
+			"name":"Rotanak",
+			"city":"California"
+		}
+]
